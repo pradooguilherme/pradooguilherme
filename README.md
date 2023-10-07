@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pradooguilherme
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently studying Science Computing for UNESP
+- 💞️ I’m looking to learning/sharing content about coding
