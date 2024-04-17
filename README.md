@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Science Computing for UNESP
   
-- 👀 I’m working with C/C++ in College, but also wanna learn another programming language
+- 👀 I’m working with C/C++, Java in College, but also wanna learn another programming language
 
 - 💞️ I’m looking to learning/sharing content about coding
   
