@@ -10,22 +10,6 @@
 
 ---
 
-## 🧠 Linguagens de programação
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 💻 Sistemas operacionais
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
----
-
 ## 🚀 Projetos em Destaque  
 
 ### 🤖 **Agente de Atendimento com Chatbot e Dashboard**  
@@ -35,7 +19,7 @@
 Aplicação web integrada composta por **chatbot inteligente** para registro e acompanhamento de tickets de garantia e **dashboard dinâmico** para análise de métricas.  
 - Interface construída em **React** com **Tailwind CSS**, priorizando responsividade e clareza visual.  
 - Implementação de fluxos conversacionais personalizados e integração com armazenamento local em JSON.
-- 
+ 
 ---
 
 ### 🧠 **Modelo de Rankeamento de Notícias (Learning to Rank)**  
@@ -57,10 +41,7 @@ Criação de um **modelo de aprendizado para ranqueamento** aplicado a artigos d
 Desenvolvimento de modelo de IA capaz de **classificar músicas entre os gêneros eletrônico e clássico** a partir de espectrogramas gerados via **Transformada de Fourier de Curto Termo (STFT)**.  
 - Coleta automatizada com **yt_dlp** e conversão de áudio em espectrogramas com **Librosa**.
 - Treinamento de **ResNet18 pré-treinada** utilizando *transfer learning* em **FastAI**, rodando em ambiente Kaggle.
-- Modelo **implantado publicamente no Hugging Face**, permitindo inferência direta via interface web.  
-
-🔗 [Repositório no GitHub](https://github.com/pradooguilherme/music-recognition-model)  
-🔗 [Demo no Hugging Face](https://huggingface.co/spaces/pradooguilherme/music-recognition-model)
+- Modelo **implantado publicamente no Hugging Face**, permitindo inferência direta via interface web.
 
 ---
 
