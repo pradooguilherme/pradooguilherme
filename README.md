@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-> Meu nome é Guilherme Narciso do Prado, tenho 19 anos e atualmente, estou cursando o quinto semestre de **Bacharelado em Ciências da Computação** na **UNESP**
+> Meu nome é Guilherme Narciso do Prado, tenho 19 anos e atualmente, estou cursando o sexto semestre de **Bacharelado em Ciências da Computação** na **UNESP**
 
 > Sempre tive aptidão para adquirir conhecimento, especialmente nas *áreas de exatas*. Sendo assim, realizei um sonho ao ingressar no *curso de Computação* em uma das mais prestigiadas universidades do Brasil. Hoje em dia, **sigo aprendendo e tentando melhorar a cada dia**.
 
