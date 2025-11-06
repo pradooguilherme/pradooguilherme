@@ -41,8 +41,6 @@ Desenvolvimento de modelo de IA capaz de **classificar músicas entre os gênero
 - Treinamento de ResNet18 pré-treinada utilizando *transfer learning* em FastAI, rodando em ambiente Kaggle.
 - Modelo **implantado publicamente no Hugging Face**, permitindo inferência direta via interface web.
 
----
-
 ## 📫 Entre em contato comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-prado-8629b0294/)
