@@ -8,8 +8,6 @@
 
 > No âmbito profissional, ainda não tive uma experiência formal. No entanto, atuei por um ano em uma empresa júnior do meu curso, a **Info Jr**, o que me ajudou a entender como um *ambiente profissional* funciona. Atualmente, sou **bolsista da FUNDUNESP** em um projeto de **iniciação científica** financiado pela **PETROBRAS**.
 
----
-
 ## 🚀 Projetos em Destaque  
 
 ### 🤖 **Agente de Atendimento com Chatbot e Dashboard**  
