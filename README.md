@@ -2,11 +2,13 @@
 
 ## Sobre mim:
 
-> Meu nome é Guilherme Narciso do Prado, tenho 20 anos e atualmente, estou cursando o sexto semestre de **Bacharelado em Ciências da Computação** na **UNESP**
+> Meu nome é Guilherme Narciso do Prado, tenho 20 anos e atualmente, estou cursando o sétimo semestre de **Bacharelado em Ciências da Computação** na **UNESP**
 
 > Sempre tive aptidão para adquirir conhecimento, especialmente nas *áreas de exatas*. Sendo assim, realizei um sonho ao ingressar no *curso de Computação* em uma das mais prestigiadas universidades do Brasil. Hoje em dia, sigo aprendendo e tentando melhorar a cada dia.
 
 > No âmbito profissional, ainda não tive uma experiência formal. No entanto, atuei por um ano em uma empresa júnior do meu curso, a **Info Jr**, o que me ajudou a entender como um *ambiente profissional* funciona. Atualmente, sou **bolsista da FUNDUNESP** em um projeto de **iniciação científica** financiado pela **PETROBRAS**.
+
+> Além da pesquisa, pretendo seguir a carreira de desenvolvedor full-stack. No momento, estou dedicando meus estudos ao back-end, na linguagem Java com o framework Springboot.
 
 ## 🚀 Projetos em Destaque  
 
