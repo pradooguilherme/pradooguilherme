@@ -2,13 +2,13 @@
 
 ## Sobre mim:
 
-> Meu nome é Guilherme Narciso do Prado, tenho 20 anos e atualmente, estou cursando o sétimo semestre de **Bacharelado em Ciências da Computação** na **UNESP**
+> Estudante de Ciência da Computação (7º semestre) na UNESP, com foco em desenvolvimento back-end e ciência de dados.
 
-> Sempre tive aptidão para adquirir conhecimento, especialmente nas *áreas de exatas*. Sendo assim, realizei um sonho ao ingressar no *curso de Computação* em uma das mais prestigiadas universidades do Brasil. Hoje em dia, sigo aprendendo e tentando melhorar a cada dia.
+> Tenho experiência em projetos pessoais (e acadêmicos) e pesquisa científica, com atuação em Java + Spring Boot, Node.js, Python e bancos de dados.
 
-> No âmbito profissional, ainda não tive uma experiência formal. No entanto, atuei por um ano em uma empresa júnior do meu curso, a **Info Jr**, o que me ajudou a entender como um *ambiente profissional* funciona. Atualmente, sou **bolsista da FUNDUNESP** em um projeto de **iniciação científica** financiado pela **PETROBRAS**.
+> Atuei por um ano na empresa júnior do meu curso de computação, a Info Jr, desenvolvendo soluções digitais em contexto real, e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
 
-> Além da pesquisa, pretendo seguir a carreira de desenvolvedor full-stack. No momento, estou dedicando meus estudos ao back-end, na linguagem Java com o framework Springboot.
+> Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto.
 
 ## 🚀 Projetos em Destaque  
 
