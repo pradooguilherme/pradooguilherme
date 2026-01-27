@@ -1,13 +1,9 @@
 # Guilherme Narciso do Prado
 
 ## Sobre mim:
-
 > Estudante de Ciência da Computação (7º semestre) na UNESP, com foco em desenvolvimento back-end e ciência de dados.
-
-> Tenho experiência em projetos pessoais (e acadêmicos) e pesquisa científica, com atuação em Java + Spring Boot, Node.js, Python e bancos de dados.
-
-> Atuei por um ano na empresa júnior do meu curso de computação, a Info Jr, desenvolvendo soluções digitais em contexto real, e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
-
+> Tenho experiência em projetos pessoais e acadêmicos, além de pesquisa científica, com atuação em Java / Spring Boot / PostgreSQL, Node.js / React e Python / Machine Learning.
+> Atuei por um ano na empresa júnior Info Jr, desenvolvendo soluções digitais em contexto real, e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
 > Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto.
 
 ## 🚀 Projetos em Destaque  
