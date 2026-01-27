@@ -2,13 +2,16 @@
 
 ## Sobre mim:
 > Estudante de Ciência da Computação (7º semestre) na UNESP, com foco em desenvolvimento back-end e ciência de dados.
+
 > Tenho experiência em projetos pessoais e acadêmicos, além de pesquisa científica, com atuação em Java / Spring Boot / PostgreSQL, Node.js / React e Python / Machine Learning.
+
 > Atuei por um ano na empresa júnior Info Jr, desenvolvendo soluções digitais em contexto real, e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
+
 > Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto.
 
 ## 🚀 Projetos em Destaque  
 
-### 🤖 **Agente de Atendimento com Chatbot e Dashboard**  
+### 🤖 **Desenvolvimento de API REST para gerenciamento de tickets**  
 > **Stack:** Node.js | React | Tailwind CSS | JSON  
 > **Propósito:** Desenvolvido durante o **Hackathon** da empresa **CAF Máquinas** com foco em automação e experiência do usuário.  
 
@@ -22,7 +25,7 @@ Aplicação web integrada composta por **chatbot inteligente** para registro e a
 > **Stack:** Python | Elasticsearch | LightGBM  
 > **Propósito:** Projeto **acadêmico** desenvolvido no contexto da matéria de Mineração de Dados e Aprendizado de Máquina.  
 
-Criação de um **modelo de aprendizado para ranqueamento** aplicado a artigos da BBC News.  
+Desenvolvimento de pipeline completo de aprendizado para ranqueamento aplicado a artigos da BBC News.  
 - Construção de dataset com 30 consultas simuladas separadas em cinco categorias.  
 - Treinamento de modelo **LambdaRANK** via LightGBM, utilizando *features* (como BM25), avaliando desempenho com NDCG@10.  
 - Obteve **ganho de +4,18%** em relação ao baseline BM25, evidenciando melhora na relevância de resultados.  
