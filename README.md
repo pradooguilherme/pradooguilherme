@@ -5,7 +5,7 @@
 
 > Tenho experiência em projetos pessoais e acadêmicos, além de pesquisa científica, com atuação em Java / Spring Boot / PostgreSQL, Node.js / React e Python / Machine Learning.
 
-> Atuei por um ano na empresa júnior Info Jr, desenvolvendo soluções digitais em contexto real, e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
+> Atuei por um ano na empresa júnior Info Jr e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
 
 > Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto.
 
