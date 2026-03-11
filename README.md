@@ -3,7 +3,7 @@
 ## Sobre mim:
 > Estudante de Ciência da Computação (7º semestre) na UNESP, com foco em desenvolvimento back-end e ciência de dados.
 
-> Tenho experiência em projetos pessoais e acadêmicos, além de pesquisa científica, com atuação em Java / Spring Boot / PostgreSQL, Node.js / React e Python / Machine Learning.
+> Tenho experiência em projetos pessoais e acadêmicos, além de pesquisa científica, com atuação em Java / Spring Boot / PostgreSQL / Node.js / React e Python / Machine Learning.
 
 > Atuei por um ano na empresa júnior Info Jr e atualmente sou bolsista FUNDUNESP/PETROBRAS em iniciação científica na área de recuperação da informação.
 
