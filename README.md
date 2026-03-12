@@ -1,12 +1,5 @@
 # Guilherme Narciso do Prado
 
-## Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ## Sobre mim
 
 Estudante de **Ciência da Computação (7º semestre)** na **UNESP – Rio Claro**, com interesse em **desenvolvimento back-end, machine learning e recuperação da informação**.
@@ -15,97 +8,79 @@ Tenho experiência em **projetos acadêmicos, pesquisa científica e desenvolvim
 
 Atualmente sou **bolsista de Iniciação Científica (FUNDUNESP / Petrobras)** na área de **Recuperação da Informação**.
 
-Busco oportunidades de estágio. Entre em contato comigo!
+---
+
+# 🧰 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+
+### Search & NLP
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-FF6F00?style=for-the-badge)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### AI Platforms
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## 💻 Projetos de Desenvolvimento
+## 💻 Desenvolvimento
 
-### ☕ CoffeeShop REST API - Em desenvolvimento
+### ☕ CoffeeShop REST API
 
-> **Stack:** Java | Spring Boot | PostgreSQL | JPA | REST API  
-> **Propósito:** Projeto pessoal focado em **arquitetura de APIs e boas práticas de desenvolvimento backend**.
+API REST para gerenciamento de uma cafeteria desenvolvida com **Spring Boot e PostgreSQL**.
 
-Desenvolvimento de uma API REST para gerenciamento de uma cafeteria.
-
-Funcionalidades incluem:
-
-- cadastro de produtos
-- gerenciamento de pedidos
-- cálculo automático de valores
-- separação entre **entidades, DTOs, services e controllers**
-
-O projeto explora conceitos importantes como:
-
-- arquitetura em camadas
-- design de APIs REST
-- persistência com **Spring Data JPA**
-- modelagem de banco de dados relacional
+Inclui cadastro de produtos, gerenciamento de pedidos e arquitetura em camadas utilizando **DTOs, Services e Controllers**.
 
 ---
 
 ### 🎟️ Sistema de Tickets com Chatbot
 
-> **Stack:** Node.js | React | Tailwind CSS | JSON  
-> **Propósito:** Desenvolvido durante **Hackathon da CAF Máquinas**, focado em automação de processos de garantia.
+Aplicação web desenvolvida durante **Hackathon da CAF Máquinas** para automação de tickets de garantia.
 
-Aplicação web integrada composta por:
-
-- **chatbot inteligente** para abertura e acompanhamento de tickets
-- **dashboard analítico** para visualização de métricas
-
-Principais características:
-
-- interface responsiva construída em **React + Tailwind**
-- fluxos conversacionais personalizados
-- armazenamento local em JSON para simulação de banco de dados
+Integra **chatbot para registro de tickets** e **dashboard analítico**, com frontend em **React + Tailwind**.
 
 ---
 
-# 📊 Projetos de Ciência de Dados
+## 📊 Ciência de Dados
 
 ### 🧠 Modelo de Rankeamento de Notícias (Learning to Rank)
 
-> **Stack:** Python | Elasticsearch | LightGBM  
-> **Propósito:** Projeto acadêmico desenvolvido na disciplina de **Mineração de Dados e Aprendizado de Máquina**.
+Pipeline de **Learning to Rank** aplicado a notícias da BBC utilizando **Elasticsearch + LightGBM (LambdaRANK)**.
 
-Construção de pipeline completo de **Learning to Rank** aplicado a notícias da BBC.
-
-Principais etapas:
-
-- construção de dataset com **30 consultas simuladas**
-- extração de *features* baseadas em **BM25**
-- treinamento do modelo **LambdaRANK (LightGBM)**
-
-Resultados:
-
-- avaliação utilizando **NDCG@10**
-- **+4,18% de melhoria** em relação ao baseline BM25.
+O modelo obteve **+4,18% de melhoria em NDCG@10** em relação ao baseline BM25.
 
 ---
 
-### 🤖 AI Research Assist (RAG + NLP) - Em desenvolvimento
+### 🤖 AI Research Assist (RAG + NLP)
 
-> **Stack:** Python | Pandas | Scikit-learn | Sentence Transformers | FastAPI  
-> **Propósito:** Projeto de pesquisa focado em **análise e recuperação de artigos científicos de IA**.
+Sistema experimental de **assistente para pesquisa científica** utilizando dados do **arXiv**.
 
-O sistema funciona como um **assistente inteligente para pesquisa científica**, permitindo analisar e consultar artigos acadêmicos.
-
-Principais componentes:
-
-- pipeline de **pré-processamento de dados textuais**
-- **análise exploratória de dados (EDA)** sobre artigos científicos
-- **classificação de documentos utilizando machine learning**
-- sistema de **perguntas e respostas baseado em RAG**
-
-O projeto utiliza dados do **arXiv** e explora técnicas de:
-
-- NLP
-- embeddings semânticos
-- recuperação de informação
-- geração de respostas com LLMs
+Inclui **pré-processamento textual, análise exploratória, classificação de documentos e sistema de perguntas e respostas baseado em RAG**.
 
 ---
 
