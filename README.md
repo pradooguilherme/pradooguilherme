@@ -28,8 +28,6 @@ Aplicação web desenvolvida durante **Hackathon da CAF Máquinas** para automa�
 
 Integra **chatbot para registro de tickets** e **dashboard analítico**, com frontend em **React + Tailwind**.
 
----
-
 ### 📊 Ciência de Dados
 
 ###3 Modelo de Rankeamento de Notícias (Learning to Rank)
@@ -44,8 +42,6 @@ O modelo obteve **+4,18% de melhoria em NDCG@10** em relação ao baseline BM25.
 Sistema experimental de **assistente para pesquisa científica** utilizando dados do **arXiv**.
 
 Inclui **pré-processamento textual, análise exploratória, classificação de documentos e sistema de perguntas e respostas baseado em RAG**.
-
----
 
 ## 📫 Contato
 
