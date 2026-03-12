@@ -4,8 +4,6 @@
 
 Estudante de **Ciência da Computação (7º semestre)** na **UNESP – Rio Claro**, com interesse em **desenvolvimento back-end, machine learning e recuperação da informação**. Tenho experiência em projetos acadêmicos, pessoais e pesquisa científica, utilizando tecnologias como **Java / Spring Boot / PostgreSQL / Node.js / React** e **Python / Machine Learning**. Atualmente sou **bolsista de Iniciação Científica (FUNDUNESP / Petrobras)** na área de **Recuperação da Informação**.
 
----
-
 ## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
