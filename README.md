@@ -22,15 +22,13 @@ Atualmente sou **bolsista de Iniciação Científica (FUNDUNESP / Petrobras)** n
 
 ## 💻 Desenvolvimento
 
-### ☕ CoffeeShop REST API
+### CoffeeShop REST API
 
 API REST para gerenciamento de uma cafeteria desenvolvida com **Spring Boot e PostgreSQL**.
 
 Inclui cadastro de produtos, gerenciamento de pedidos e arquitetura em camadas utilizando **DTOs, Services e Controllers**.
 
----
-
-### 🎟️ Sistema de Tickets com Chatbot
+###  Sistema de Tickets com Chatbot
 
 Aplicação web desenvolvida durante **Hackathon da CAF Máquinas** para automação de tickets de garantia.
 
@@ -40,15 +38,14 @@ Integra **chatbot para registro de tickets** e **dashboard analítico**, com fro
 
 ## 📊 Ciência de Dados
 
-### 🧠 Modelo de Rankeamento de Notícias (Learning to Rank)
+### Modelo de Rankeamento de Notícias (Learning to Rank)
 
 Pipeline de **Learning to Rank** aplicado a notícias da BBC utilizando **Elasticsearch + LightGBM (LambdaRANK)**.
 
 O modelo obteve **+4,18% de melhoria em NDCG@10** em relação ao baseline BM25.
 
----
 
-### 🤖 AI Research Assist (RAG + NLP)
+### AI Research Assist (RAG + NLP)
 
 Sistema experimental de **assistente para pesquisa científica** utilizando dados do **arXiv**.
 
